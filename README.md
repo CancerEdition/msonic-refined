@@ -1,6 +1,13 @@
 # Mania Sonic, Refined!
 
+![Banner](https://raw.githubusercontent.com/CyanHyprPsychic/msonic-refined/main/git_banner.png)
+
 A Sonic Mania mod, redrawing various frames and bodyparts of Sonic's spriteset for consistency and quality.
+
+Public contributions are appreciated! Just please list what you drew or edited and the alias/URL by which you would like to be credited.
+
+Development discussion is hosted at The Sonic & Co. Spriting Guild.
+https://discord.gg/c2xMXZjkar
 
 ### The goal of this mod is "redraft, not replace."
 
