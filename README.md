@@ -4,6 +4,8 @@
 
 A Sonic Mania mod, redrawing various frames and bodyparts of Sonic's spriteset for consistency and quality.
 
+Public contributions are appreciated! Just please list what you drew or edited and the alias/URL by which you would like to be credited.
+
 ### The goal of this mod is "redraft, not replace."
 
 You may have seen several Sonic Mania mods attempting to replace the whole of Sonic's spriteset with assets from other Sonic games or original assets tailored to the author's individual style or personal fixings.
