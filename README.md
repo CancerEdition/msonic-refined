@@ -6,8 +6,8 @@ A Sonic Mania mod, redrawing various frames and bodyparts of Sonic's spriteset f
 
 Public contributions are appreciated! Just please list what you drew or edited and the alias/URL by which you would like to be credited.
 
-Development discussion is hosted at The Sonic & Co. Spriting Guild.
-https://discord.gg/c2xMXZjkar
+Development discussion is hosted at [The Sonic & Co. Spriting Guild](https://discord.gg/c2xMXZjkar).
+
 
 ### The goal of this mod is "redraft, not replace."
 
@@ -15,7 +15,7 @@ You may have seen several Sonic Mania mods attempting to replace the whole of So
 
 To contrast, this mod intends to break down Sonic Mania's artstyle and how it treats Sonic for the purposes of cleaning up mistakes, such as questionable anatomy, without inventing a new identity.
 
-## Isn't this redundant with CE+ Sonic?
+## Isn't this redundant with "[Character Edits Plus](https://gamebanana.com/mods/319242)"?
 
 While CE+ Sonic does edit out a lot of instances of poor spriting techniques from base Mania, a lot of its edits moreso have to do with changing Mania's visual identity to something more akin to recent portrayals of Classic Sonic in 3D, such as a more muted tone of blue, visible shoe buckles, and spines that flow directly off of the sides of Sonic's head. 
 
