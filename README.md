@@ -17,12 +17,12 @@ To contrast, this mod intends to break down Sonic Mania's artstyle and how it tr
 
 ## Isn't this redundant with CE+ Sonic?
 
-While CE+ Sonic does edit out a lot of instances of poor spriting techniques from base Mania, a lot of its edits moreso have to do with changing Mania's visual identity to something more akin to recent portrayals of Classic Sonic in 3D, such as a more muted tone of blue, visible shoe buckles, and spines that flow directly off of the sides of Sonic's head.
+While CE+ Sonic does edit out a lot of instances of poor spriting techniques from base Mania, a lot of its edits moreso have to do with changing Mania's visual identity to something more akin to recent portrayals of Classic Sonic in 3D, such as a more muted tone of blue, visible shoe buckles, and spines that flow directly off of the sides of Sonic's head. 
 
-To contrast, Mania Sonic Refined intends to take from Sonic 1/CD's depiction of Sonic as it is prioritized in Mania's borrowed animations and seemingly used as the basis for its original animations. Animations such as Sonic's turn-around may be completely redrawn if they are considered too far out of line with this depiction of Sonic. Hence, 
+To contrast, Mania Sonic Refined intends to take from Sonic 1/CD's depiction of Sonic as it is prioritized in Mania's borrowed animations and seemingly used as the basis for its original animations. Animations such as Sonic's turn-around may be completely redrawn if they are considered too far out of line with this depiction of Sonic whereas CE+ Sonic may have simply edited them for clarity and readability.
 
-This is what makes this mod separate from CE+ Sonic: A difference in opinion on how to "fix" his sprites.
+Hence, this is what makes this mod separate from CE+ Sonic: A difference in opinion on how to "fix" his sprites.
 
 However, other features from CE+ Sonic, such as additional animations, mod compatibility, and configurable palettes, may be considered in the future.
 
-Compatibility with "Sonic Mania: Addendum" is already planned.
+Compatibility with "[Sonic Mania: Addendum](https://github.com/Kiaru-the-Fox/Sonic-Mania-Addendum)" is already planned.
