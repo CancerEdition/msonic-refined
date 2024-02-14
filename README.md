@@ -19,7 +19,9 @@ To contrast, this mod intends to break down Sonic Mania's artstyle and how it tr
 
 While CE+ Sonic does edit out a lot of instances of poor spriting techniques from base Mania, a lot of its edits moreso have to do with changing Mania's visual identity to something more akin to recent portrayals of Classic Sonic in 3D, such as a more muted tone of blue, visible shoe buckles, and spines that flow directly off of the sides of Sonic's head.
 
-To contrast, Mania Sonic Refined intends to take from Sonic 1/CD's depiction of Sonic as it is prioritized in Mania's borrowed animations and seemingly used as the basis for its original animations. Hence, this is what makes this mod separate from CE+ Sonic.
+To contrast, Mania Sonic Refined intends to take from Sonic 1/CD's depiction of Sonic as it is prioritized in Mania's borrowed animations and seemingly used as the basis for its original animations. Animations such as Sonic's turn-around may be completely redrawn if they are considered too far out of line with this depiction of Sonic. Hence, 
+
+This is what makes this mod separate from CE+ Sonic: A difference in opinion on how to "fix" his sprites.
 
 However, other features from CE+ Sonic, such as additional animations, mod compatibility, and configurable palettes, may be considered in the future.
 
